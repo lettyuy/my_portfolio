@@ -1,0 +1,918 @@
+[
+  {
+    "trend_name": "Ube Matcha Latte",
+    "trend_summary": "Layered matcha latte blended with purple ube for bold color contrast.",
+    "trend_keywords": [
+      "matcha",
+      "ube",
+      "layered_drink",
+      "purple_aesthetic",
+      "iced_latte"
+    ],
+    "image_url": "https://images.unsplash.com/photo-ube-matcha-latte"
+  },
+  {
+    "trend_name": "Strawberry Cold Foam Matcha",
+    "trend_summary": "Iced matcha topped with strawberry-infused cold foam.",
+    "trend_keywords": [
+      "matcha",
+      "cold_foam",
+      "strawberry_puree",
+      "layered_drink"
+    ],
+    "image_url": "https://images.unsplash.com/photo-strawberry-cold-foam-matcha"
+  },
+  {
+    "trend_name": "Protein Cold Brew",
+    "trend_summary": "Cold brew blended with vanilla protein for functional drinks.",
+    "trend_keywords": [
+      "cold_brew",
+      "protein_blend",
+      "functional_drink"
+    ],
+    "image_url": "https://images.unsplash.com/photo-protein-cold-brew"
+  },
+  {
+    "trend_name": "Lavender Honey Latte",
+    "trend_summary": "Floral lavender syrup paired with honey.",
+    "trend_keywords": [
+      "lavender_syrup",
+      "honey_flavor",
+      "floral_drink"
+    ],
+    "image_url": "https://images.unsplash.com/photo-lavender-honey-latte"
+  },
+  {
+    "trend_name": "Pistachio Cream Latte",
+    "trend_summary": "Nutty pistachio cream incorporated into espresso drinks.",
+    "trend_keywords": [
+      "pistachio_flavor",
+      "cream_topping",
+      "nutty_latte"
+    ],
+    "image_url": "https://images.unsplash.com/photo-pistachio-cream-latte"
+  },
+  {
+    "trend_name": "Brown Butter Cookies",
+    "trend_summary": "Caramelized butter flavor elevating classic cookies.",
+    "trend_keywords": [
+      "brown_butter",
+      "cookie_variation",
+      "artisan_bakery"
+    ],
+    "image_url": "https://images.unsplash.com/photo-brown-butter-cookies"
+  },
+  {
+    "trend_name": "Olive Oil Citrus Cake",
+    "trend_summary": "Moist olive oil cake with citrus glaze.",
+    "trend_keywords": [
+      "olive_oil_cake",
+      "citrus_glaze",
+      "artisan_pastry"
+    ],
+    "image_url": "https://images.unsplash.com/photo-olive-oil-citrus-cake"
+  },
+  {
+    "trend_name": "Yuzu Lemonade",
+    "trend_summary": "Citrus-forward yuzu lemonade.",
+    "trend_keywords": [
+      "yuzu_flavor",
+      "citrus_drink",
+      "fruit_infusion"
+    ],
+    "image_url": "https://images.unsplash.com/photo-yuzu-lemonade"
+  },
+  {
+    "trend_name": "Hot Honey Chicken Sandwich",
+    "trend_summary": "Sweet and spicy honey over crispy chicken.",
+    "trend_keywords": [
+      "hot_honey",
+      "spicy_sweet",
+      "sandwich_upgrade"
+    ],
+    "image_url": "https://images.unsplash.com/photo-hot-honey-chicken-sandwich"
+  },
+  {
+    "trend_name": "Matcha Soft Serve",
+    "trend_summary": "Green tea soft serve with swirl presentation.",
+    "trend_keywords": [
+      "matcha_softserve",
+      "green_dessert",
+      "swirl_aesthetic"
+    ],
+    "image_url": "https://images.unsplash.com/photo-matcha-soft-serve"
+  },
+  {
+    "trend_name": "Mini Dessert Sampler Box",
+    "trend_summary": "Curated mini pastries for gifting.",
+    "trend_keywords": [
+      "mini_pastries",
+      "sampler_box",
+      "gifting_format"
+    ],
+    "image_url": "https://images.unsplash.com/photo-mini-dessert-sampler-box"
+  },
+  {
+    "trend_name": "Chili Crisp Noodles",
+    "trend_summary": "Spicy chili crisp noodle bowls.",
+    "trend_keywords": [
+      "chili_crisp",
+      "spicy_noodles",
+      "umami_flavor"
+    ],
+    "image_url": "https://images.unsplash.com/photo-chili-crisp-noodles"
+  },
+  {
+    "trend_name": "Cold Brew Concentrate",
+    "trend_summary": "Retail bottled concentrate for at-home brewing.",
+    "trend_keywords": [
+      "cold_brew_concentrate",
+      "bottled_coffee"
+    ],
+    "image_url": "https://images.unsplash.com/photo-cold-brew-concentrate"
+  },
+  {
+    "trend_name": "Rose Cardamom Latte",
+    "trend_summary": "Spiced floral espresso beverage.",
+    "trend_keywords": [
+      "cardamom_spice",
+      "rose_flavor",
+      "spiced_latte"
+    ],
+    "image_url": "https://images.unsplash.com/photo-rose-cardamom-latte"
+  },
+  {
+    "trend_name": "High-Protein Muffins",
+    "trend_summary": "Bakery muffins reformulated for protein.",
+    "trend_keywords": [
+      "protein_pastry",
+      "functional_bakery"
+    ],
+    "image_url": "https://images.unsplash.com/photo-high-protein-muffins"
+  },
+  {
+    "trend_name": "Sparkling Peach Iced Tea",
+    "trend_summary": "Carbonated peach tea beverage.",
+    "trend_keywords": [
+      "peach_flavor",
+      "sparkling_tea"
+    ],
+    "image_url": "https://images.unsplash.com/photo-sparkling-peach-iced-tea"
+  },
+  {
+    "trend_name": "Tiramisu Iced Coffee",
+    "trend_summary": "Mascarpone and cocoa flavored iced coffee.",
+    "trend_keywords": [
+      "tiramisu_flavor",
+      "dessert_coffee"
+    ],
+    "image_url": "https://images.unsplash.com/photo-tiramisu-iced-coffee"
+  },
+  {
+    "trend_name": "Ube Cheesecake Bars",
+    "trend_summary": "Purple ube flavored cheesecake squares.",
+    "trend_keywords": [
+      "ube_dessert",
+      "cheesecake_bar"
+    ],
+    "image_url": "https://images.unsplash.com/photo-ube-cheesecake-bars"
+  },
+  {
+    "trend_name": "Matcha White Chocolate Cookies",
+    "trend_summary": "Green tea cookie with white chocolate chunks.",
+    "trend_keywords": [
+      "matcha_cookie",
+      "white_chocolate_chunk"
+    ],
+    "image_url": "https://images.unsplash.com/photo-matcha-white-chocolate-cookies"
+  },
+  {
+    "trend_name": "Pistachio Croissants",
+    "trend_summary": "Croissants filled with pistachio cream.",
+    "trend_keywords": [
+      "pistachio_filling",
+      "laminated_pastry"
+    ],
+    "image_url": "https://images.unsplash.com/photo-pistachio-croissants"
+  },
+  {
+    "trend_name": "Floral Lemon Shortbread",
+    "trend_summary": "Buttery cookies with floral citrus glaze.",
+    "trend_keywords": [
+      "lemon_glaze",
+      "shortbread_cookie"
+    ],
+    "image_url": "https://images.unsplash.com/photo-floral-lemon-shortbread"
+  },
+  {
+    "trend_name": "Espresso Tonic",
+    "trend_summary": "Sparkling tonic mixed with espresso.",
+    "trend_keywords": [
+      "espresso_tonic",
+      "carbonated_coffee"
+    ],
+    "image_url": "https://images.unsplash.com/photo-espresso-tonic"
+  },
+  {
+    "trend_name": "Miso Caramel Dessert",
+    "trend_summary": "Savory miso blended into caramel sweets.",
+    "trend_keywords": [
+      "miso_caramel",
+      "umami_dessert"
+    ],
+    "image_url": "https://images.unsplash.com/photo-miso-caramel-dessert"
+  },
+  {
+    "trend_name": "Salted Maple Latte",
+    "trend_summary": "Maple syrup with sea salt finish.",
+    "trend_keywords": [
+      "maple_flavor",
+      "salted_sweet"
+    ],
+    "image_url": "https://images.unsplash.com/photo-salted-maple-latte"
+  },
+  {
+    "trend_name": "Tahini Chocolate Bars",
+    "trend_summary": "Sesame tahini blended into dark chocolate.",
+    "trend_keywords": [
+      "tahini_chocolate",
+      "artisan_confection"
+    ],
+    "image_url": "https://images.unsplash.com/photo-tahini-chocolate-bars"
+  },
+  {
+    "trend_name": "Glazed Donut Nails",
+    "trend_summary": "Sheer glossy chrome-like nail finish.",
+    "trend_keywords": [
+      "sheer_nails",
+      "chrome_finish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-glazed-donut-nails"
+  },
+  {
+    "trend_name": "Skin Tint Foundation",
+    "trend_summary": "Lightweight breathable complexion product.",
+    "trend_keywords": [
+      "light_coverage",
+      "natural_finish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-skin-tint-foundation"
+  },
+  {
+    "trend_name": "Barrier Repair Cream",
+    "trend_summary": "Moisturizer focused on ceramide support.",
+    "trend_keywords": [
+      "ceramide_cream",
+      "skin_barrier"
+    ],
+    "image_url": "https://images.unsplash.com/photo-barrier-repair-cream"
+  },
+  {
+    "trend_name": "Lip Oil Gloss",
+    "trend_summary": "Hydrating glossy lip product.",
+    "trend_keywords": [
+      "lip_oil",
+      "high_shine"
+    ],
+    "image_url": "https://images.unsplash.com/photo-lip-oil-gloss"
+  },
+  {
+    "trend_name": "Scalp Serum Drops",
+    "trend_summary": "Targeted scalp hydration treatments.",
+    "trend_keywords": [
+      "scalp_serum",
+      "root_health"
+    ],
+    "image_url": "https://images.unsplash.com/photo-scalp-serum-drops"
+  },
+  {
+    "trend_name": "Refillable Cushion Foundation",
+    "trend_summary": "Compact foundation with refill pod.",
+    "trend_keywords": [
+      "refill_pod",
+      "compact_foundation"
+    ],
+    "image_url": "https://images.unsplash.com/photo-refillable-cushion-foundation"
+  },
+  {
+    "trend_name": "Solid Perfume Stick",
+    "trend_summary": "Travel-friendly balm fragrance.",
+    "trend_keywords": [
+      "solid_fragrance",
+      "balm_perfume"
+    ],
+    "image_url": "https://images.unsplash.com/photo-solid-perfume-stick"
+  },
+  {
+    "trend_name": "Cream Blush Stick",
+    "trend_summary": "Twist-up cream blush format.",
+    "trend_keywords": [
+      "cream_blush",
+      "stick_format"
+    ],
+    "image_url": "https://images.unsplash.com/photo-cream-blush-stick"
+  },
+  {
+    "trend_name": "Peptide Lip Treatment",
+    "trend_summary": "Lip balm infused with peptides.",
+    "trend_keywords": [
+      "peptide_formula",
+      "plumping_effect"
+    ],
+    "image_url": "https://images.unsplash.com/photo-peptide-lip-treatment"
+  },
+  {
+    "trend_name": "Chrome Eye Shadow",
+    "trend_summary": "Metallic silver eye palette.",
+    "trend_keywords": [
+      "chrome_shadow",
+      "metallic_makeup"
+    ],
+    "image_url": "https://images.unsplash.com/photo-chrome-eye-shadow"
+  },
+  {
+    "trend_name": "Brown Mascara",
+    "trend_summary": "Soft brown lash tint.",
+    "trend_keywords": [
+      "brown_lashes",
+      "soft_glam"
+    ],
+    "image_url": "https://images.unsplash.com/photo-brown-mascara"
+  },
+  {
+    "trend_name": "Freckle Pen",
+    "trend_summary": "Makeup pen to create faux freckles.",
+    "trend_keywords": [
+      "freckle_pen",
+      "playful_makeup"
+    ],
+    "image_url": "https://images.unsplash.com/photo-freckle-pen"
+  },
+  {
+    "trend_name": "Hair Gloss Treatment",
+    "trend_summary": "At-home shine enhancing gloss.",
+    "trend_keywords": [
+      "hair_gloss",
+      "shine_boost"
+    ],
+    "image_url": "https://images.unsplash.com/photo-hair-gloss-treatment"
+  },
+  {
+    "trend_name": "Body Oil Mist",
+    "trend_summary": "Lightweight shimmer body oil.",
+    "trend_keywords": [
+      "body_oil",
+      "summer_glow"
+    ],
+    "image_url": "https://images.unsplash.com/photo-body-oil-mist"
+  },
+  {
+    "trend_name": "Skin Cycling Kit",
+    "trend_summary": "Bundled retinol and exfoliant routine.",
+    "trend_keywords": [
+      "retinol_routine",
+      "night_regimen"
+    ],
+    "image_url": "https://images.unsplash.com/photo-skin-cycling-kit"
+  },
+  {
+    "trend_name": "Glass Highlighter",
+    "trend_summary": "Ultra-reflective facial highlighter.",
+    "trend_keywords": [
+      "wet_glow",
+      "cheek_shine"
+    ],
+    "image_url": "https://images.unsplash.com/photo-glass-highlighter"
+  },
+  {
+    "trend_name": "Underpainting Contour",
+    "trend_summary": "Cream contour layered under foundation.",
+    "trend_keywords": [
+      "underpainting",
+      "cream_contour"
+    ],
+    "image_url": "https://images.unsplash.com/photo-underpainting-contour"
+  },
+  {
+    "trend_name": "Color Correcting Primer",
+    "trend_summary": "Green and purple tone correcting base.",
+    "trend_keywords": [
+      "color_corrector",
+      "makeup_base"
+    ],
+    "image_url": "https://images.unsplash.com/photo-color-correcting-primer"
+  },
+  {
+    "trend_name": "Tubing Mascara",
+    "trend_summary": "Smudge-proof lash formula.",
+    "trend_keywords": [
+      "tubing_formula",
+      "lash_wrap"
+    ],
+    "image_url": "https://images.unsplash.com/photo-tubing-mascara"
+  },
+  {
+    "trend_name": "Scalp Massager Brush",
+    "trend_summary": "Silicone brush for shampoo massage.",
+    "trend_keywords": [
+      "silicone_brush",
+      "scalp_tool"
+    ],
+    "image_url": "https://images.unsplash.com/photo-scalp-massager-brush"
+  },
+  {
+    "trend_name": "Body Acne Spray",
+    "trend_summary": "Spray-on treatment for body breakouts.",
+    "trend_keywords": [
+      "body_spray_treatment",
+      "backne_solution"
+    ],
+    "image_url": "https://images.unsplash.com/photo-body-acne-spray"
+  },
+  {
+    "trend_name": "Minimal Brow Gel",
+    "trend_summary": "Clear brow shaping gel.",
+    "trend_keywords": [
+      "clear_brow",
+      "laminated_effect"
+    ],
+    "image_url": "https://images.unsplash.com/photo-minimal-brow-gel"
+  },
+  {
+    "trend_name": "Peach Undereye Corrector",
+    "trend_summary": "Brightening peach tone corrector.",
+    "trend_keywords": [
+      "peach_corrector",
+      "under_eye"
+    ],
+    "image_url": "https://images.unsplash.com/photo-peach-undereye-corrector"
+  },
+  {
+    "trend_name": "Multi Balm Stick",
+    "trend_summary": "All-in-one hydration stick.",
+    "trend_keywords": [
+      "hydration_stick",
+      "travel_skincare"
+    ],
+    "image_url": "https://images.unsplash.com/photo-multi-balm-stick"
+  },
+  {
+    "trend_name": "Glitter Nail Top Coat",
+    "trend_summary": "Sheer glitter overlay polish.",
+    "trend_keywords": [
+      "glitter_overlay",
+      "top_coat"
+    ],
+    "image_url": "https://images.unsplash.com/photo-glitter-nail-top-coat"
+  },
+  {
+    "trend_name": "Sheer Mesh Top",
+    "trend_summary": "Transparent mesh layering top.",
+    "trend_keywords": [
+      "mesh_top",
+      "layering_piece"
+    ],
+    "image_url": "https://images.unsplash.com/photo-sheer-mesh-top"
+  },
+  {
+    "trend_name": "Ballet Flats",
+    "trend_summary": "Soft rounded ballet shoe.",
+    "trend_keywords": [
+      "flat_shoes",
+      "rounded_toe"
+    ],
+    "image_url": "https://images.unsplash.com/photo-ballet-flats"
+  },
+  {
+    "trend_name": "Butter Yellow Cardigan",
+    "trend_summary": "Pastel yellow knitwear.",
+    "trend_keywords": [
+      "butter_yellow",
+      "knit_cardigan"
+    ],
+    "image_url": "https://images.unsplash.com/photo-butter-yellow-cardigan"
+  },
+  {
+    "trend_name": "Micro Mini Skirt",
+    "trend_summary": "Ultra-short hemline skirt.",
+    "trend_keywords": [
+      "micro_mini",
+      "low_rise"
+    ],
+    "image_url": "https://images.unsplash.com/photo-micro-mini-skirt"
+  },
+  {
+    "trend_name": "Oversized Blazer",
+    "trend_summary": "Relaxed tailored blazer.",
+    "trend_keywords": [
+      "oversized_blazer",
+      "structured_layer"
+    ],
+    "image_url": "https://images.unsplash.com/photo-oversized-blazer"
+  },
+  {
+    "trend_name": "Statement Hair Bow",
+    "trend_summary": "Large ribbon accessory.",
+    "trend_keywords": [
+      "ribbon_accessory",
+      "oversized_bow"
+    ],
+    "image_url": "https://images.unsplash.com/photo-statement-hair-bow"
+  },
+  {
+    "trend_name": "Platform Sneakers",
+    "trend_summary": "Elevated sole sneaker.",
+    "trend_keywords": [
+      "chunky_sneaker",
+      "platform_sole"
+    ],
+    "image_url": "https://images.unsplash.com/photo-platform-sneakers"
+  },
+  {
+    "trend_name": "Vintage Denim Jacket",
+    "trend_summary": "Retro-wash denim jacket.",
+    "trend_keywords": [
+      "vintage_wash",
+      "denim_jacket"
+    ],
+    "image_url": "https://images.unsplash.com/photo-vintage-denim-jacket"
+  },
+  {
+    "trend_name": "Crochet Cardigan",
+    "trend_summary": "Handmade crochet knit.",
+    "trend_keywords": [
+      "crochet_knit",
+      "boho_layer"
+    ],
+    "image_url": "https://images.unsplash.com/photo-crochet-cardigan"
+  },
+  {
+    "trend_name": "Monochrome Lounge Set",
+    "trend_summary": "Matching sweatshirt and jogger set.",
+    "trend_keywords": [
+      "matching_set",
+      "neutral_loungewear"
+    ],
+    "image_url": "https://images.unsplash.com/photo-monochrome-lounge-set"
+  },
+  {
+    "trend_name": "Statement Belt Buckle",
+    "trend_summary": "Large decorative belt hardware.",
+    "trend_keywords": [
+      "oversized_buckle",
+      "waist_accessory"
+    ],
+    "image_url": "https://images.unsplash.com/photo-statement-belt-buckle"
+  },
+  {
+    "trend_name": "Metallic Handbag",
+    "trend_summary": "Silver mini handbag.",
+    "trend_keywords": [
+      "metallic_bag",
+      "chrome_finish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-metallic-handbag"
+  },
+  {
+    "trend_name": "Cargo Maxi Skirt",
+    "trend_summary": "Utility pocket long skirt.",
+    "trend_keywords": [
+      "cargo_pockets",
+      "maxi_skirt"
+    ],
+    "image_url": "https://images.unsplash.com/photo-cargo-maxi-skirt"
+  },
+  {
+    "trend_name": "Ribbed Tank",
+    "trend_summary": "Fitted ribbed layering tank.",
+    "trend_keywords": [
+      "ribbed_tank",
+      "fitted_silhouette"
+    ],
+    "image_url": "https://images.unsplash.com/photo-ribbed-tank"
+  },
+  {
+    "trend_name": "Tailored Vest Top",
+    "trend_summary": "Structured waistcoat-style top.",
+    "trend_keywords": [
+      "tailored_vest",
+      "structured_top"
+    ],
+    "image_url": "https://images.unsplash.com/photo-tailored-vest-top"
+  },
+  {
+    "trend_name": "Chunky Loafer",
+    "trend_summary": "Thick-soled leather loafer.",
+    "trend_keywords": [
+      "thick_sole",
+      "leather_loafer"
+    ],
+    "image_url": "https://images.unsplash.com/photo-chunky-loafer"
+  },
+  {
+    "trend_name": "Oversized Graphic Tee",
+    "trend_summary": "Large silhouette printed tee.",
+    "trend_keywords": [
+      "graphic_print",
+      "oversized_fit"
+    ],
+    "image_url": "https://images.unsplash.com/photo-oversized-graphic-tee"
+  },
+  {
+    "trend_name": "Linen Two-Piece Set",
+    "trend_summary": "Matching linen top and bottom.",
+    "trend_keywords": [
+      "linen_set",
+      "breathable_fabric"
+    ],
+    "image_url": "https://images.unsplash.com/photo-linen-two-piece-set"
+  },
+  {
+    "trend_name": "Scalloped Hem Dress",
+    "trend_summary": "Dress with wavy hemline.",
+    "trend_keywords": [
+      "scalloped_edge",
+      "romantic_silhouette"
+    ],
+    "image_url": "https://images.unsplash.com/photo-scalloped-hem-dress"
+  },
+  {
+    "trend_name": "Silver Chain Necklace",
+    "trend_summary": "Bold silver chain jewelry.",
+    "trend_keywords": [
+      "silver_chain",
+      "bold_chain"
+    ],
+    "image_url": "https://images.unsplash.com/photo-silver-chain-necklace"
+  },
+  {
+    "trend_name": "Tube Top",
+    "trend_summary": "Strapless fitted top.",
+    "trend_keywords": [
+      "strapless_top",
+      "y2k_style"
+    ],
+    "image_url": "https://images.unsplash.com/photo-tube-top"
+  },
+  {
+    "trend_name": "Woven Ballet Flat",
+    "trend_summary": "Textured woven flat shoe.",
+    "trend_keywords": [
+      "woven_shoe",
+      "summer_footwear"
+    ],
+    "image_url": "https://images.unsplash.com/photo-woven-ballet-flat"
+  },
+  {
+    "trend_name": "Micro Shoulder Bag",
+    "trend_summary": "Compact underarm bag.",
+    "trend_keywords": [
+      "micro_bag",
+      "mini_accessory"
+    ],
+    "image_url": "https://images.unsplash.com/photo-micro-shoulder-bag"
+  },
+  {
+    "trend_name": "Patchwork Denim Jeans",
+    "trend_summary": "Mixed-fabric denim design.",
+    "trend_keywords": [
+      "patchwork_detail",
+      "denim_innovation"
+    ],
+    "image_url": "https://images.unsplash.com/photo-patchwork-denim-jeans"
+  },
+  {
+    "trend_name": "Structured Corset Top",
+    "trend_summary": "Boned corset-inspired top.",
+    "trend_keywords": [
+      "corset_top",
+      "structured_bodice"
+    ],
+    "image_url": "https://images.unsplash.com/photo-structured-corset-top"
+  },
+  {
+    "trend_name": "Blind Box Figure",
+    "trend_summary": "Mystery packaged collectible figurine.",
+    "trend_keywords": [
+      "mystery_box",
+      "collectible_figure"
+    ],
+    "image_url": "https://images.unsplash.com/photo-blind-box-figure"
+  },
+  {
+    "trend_name": "Kawaii Plush Toy",
+    "trend_summary": "Pastel character plush.",
+    "trend_keywords": [
+      "pastel_plush",
+      "cute_character"
+    ],
+    "image_url": "https://images.unsplash.com/photo-kawaii-plush-toy"
+  },
+  {
+    "trend_name": "Retro Handheld Console",
+    "trend_summary": "Pixel handheld gaming device.",
+    "trend_keywords": [
+      "pixel_console",
+      "retro_game"
+    ],
+    "image_url": "https://images.unsplash.com/photo-retro-handheld-console"
+  },
+  {
+    "trend_name": "Miniature Dollhouse Kit",
+    "trend_summary": "Build-your-own miniature room.",
+    "trend_keywords": [
+      "miniature_scene",
+      "diy_dollhouse"
+    ],
+    "image_url": "https://images.unsplash.com/photo-miniature-dollhouse-kit"
+  },
+  {
+    "trend_name": "Glow Slime",
+    "trend_summary": "Luminous tactile slime.",
+    "trend_keywords": [
+      "glow_slime",
+      "sensory_play"
+    ],
+    "image_url": "https://images.unsplash.com/photo-glow-slime"
+  },
+  {
+    "trend_name": "Anime Action Figure",
+    "trend_summary": "Detailed collectible figurine.",
+    "trend_keywords": [
+      "anime_figure",
+      "collector_item"
+    ],
+    "image_url": "https://images.unsplash.com/photo-anime-action-figure"
+  },
+  {
+    "trend_name": "STEM Robot Kit",
+    "trend_summary": "Educational robot building kit.",
+    "trend_keywords": [
+      "robot_kit",
+      "engineering_toy"
+    ],
+    "image_url": "https://images.unsplash.com/photo-stem-robot-kit"
+  },
+  {
+    "trend_name": "Trading Card Booster",
+    "trend_summary": "Limited trading card release.",
+    "trend_keywords": [
+      "booster_pack",
+      "card_collecting"
+    ],
+    "image_url": "https://images.unsplash.com/photo-trading-card-booster"
+  },
+  {
+    "trend_name": "Wooden Stacking Toy",
+    "trend_summary": "Minimal wooden stacking toy.",
+    "trend_keywords": [
+      "wooden_stack",
+      "natural_material"
+    ],
+    "image_url": "https://images.unsplash.com/photo-wooden-stacking-toy"
+  },
+  {
+    "trend_name": "Puzzle Advent Calendar",
+    "trend_summary": "Countdown puzzle set.",
+    "trend_keywords": [
+      "daily_reveal",
+      "puzzle_set"
+    ],
+    "image_url": "https://images.unsplash.com/photo-puzzle-advent-calendar"
+  },
+  {
+    "trend_name": "Checkerboard Rug",
+    "trend_summary": "Graphic checkerboard rug.",
+    "trend_keywords": [
+      "checkerboard_pattern",
+      "area_rug"
+    ],
+    "image_url": "https://images.unsplash.com/photo-checkerboard-rug"
+  },
+  {
+    "trend_name": "Mushroom Table Lamp",
+    "trend_summary": "Whimsical mushroom-shaped lamp.",
+    "trend_keywords": [
+      "mushroom_lamp",
+      "retro_shape"
+    ],
+    "image_url": "https://images.unsplash.com/photo-mushroom-table-lamp"
+  },
+  {
+    "trend_name": "Curved Accent Chair",
+    "trend_summary": "Rounded silhouette lounge chair.",
+    "trend_keywords": [
+      "rounded_frame",
+      "accent_chair"
+    ],
+    "image_url": "https://images.unsplash.com/photo-curved-accent-chair"
+  },
+  {
+    "trend_name": "Scalloped Mirror",
+    "trend_summary": "Mirror with scalloped edges.",
+    "trend_keywords": [
+      "scalloped_frame",
+      "decor_mirror"
+    ],
+    "image_url": "https://images.unsplash.com/photo-scalloped-mirror"
+  },
+  {
+    "trend_name": "Color Block Mug",
+    "trend_summary": "Two-tone ceramic mug.",
+    "trend_keywords": [
+      "color_block_mug",
+      "ceramic_drinkware"
+    ],
+    "image_url": "https://images.unsplash.com/photo-color-block-mug"
+  },
+  {
+    "trend_name": "Terrazzo Tray",
+    "trend_summary": "Speckled terrazzo tray.",
+    "trend_keywords": [
+      "terrazzo_pattern",
+      "decor_tray"
+    ],
+    "image_url": "https://images.unsplash.com/photo-terrazzo-tray"
+  },
+  {
+    "trend_name": "Wavy Coffee Table",
+    "trend_summary": "Table with wavy silhouette.",
+    "trend_keywords": [
+      "wavy_silhouette",
+      "modern_design"
+    ],
+    "image_url": "https://images.unsplash.com/photo-wavy-coffee-table"
+  },
+  {
+    "trend_name": "Chunky Knit Throw",
+    "trend_summary": "Textured decorative blanket.",
+    "trend_keywords": [
+      "chunky_knit",
+      "cozy_throw"
+    ],
+    "image_url": "https://images.unsplash.com/photo-chunky-knit-throw"
+  },
+  {
+    "trend_name": "Rattan Storage Basket",
+    "trend_summary": "Natural woven storage.",
+    "trend_keywords": [
+      "rattan_weave",
+      "boho_detail"
+    ],
+    "image_url": "https://images.unsplash.com/photo-rattan-storage-basket"
+  },
+  {
+    "trend_name": "Tinted Glass Tumbler",
+    "trend_summary": "Colored glass drinkware.",
+    "trend_keywords": [
+      "tinted_glass",
+      "tabletop_color"
+    ],
+    "image_url": "https://images.unsplash.com/photo-tinted-glass-tumbler"
+  },
+  {
+    "trend_name": "Abstract Duvet Cover",
+    "trend_summary": "Graphic print bedding.",
+    "trend_keywords": [
+      "abstract_print",
+      "duvet_cover"
+    ],
+    "image_url": "https://images.unsplash.com/photo-abstract-duvet-cover"
+  },
+  {
+    "trend_name": "Sculptural Wall Hook",
+    "trend_summary": "Decorative wall-mounted hook.",
+    "trend_keywords": [
+      "decor_hook",
+      "functional_art"
+    ],
+    "image_url": "https://images.unsplash.com/photo-sculptural-wall-hook"
+  },
+  {
+    "trend_name": "Retro Poster Print",
+    "trend_summary": "Vintage graphic wall art.",
+    "trend_keywords": [
+      "retro_print",
+      "wall_poster"
+    ],
+    "image_url": "https://images.unsplash.com/photo-retro-poster-print"
+  },
+  {
+    "trend_name": "DIY Plush Kit",
+    "trend_summary": "Build-your-own plush toy kit.",
+    "trend_keywords": [
+      "plush_diy",
+      "craft_kit"
+    ],
+    "image_url": "https://images.unsplash.com/photo-diy-plush-kit"
+  },
+  {
+    "trend_name": "Mini Playset Figures",
+    "trend_summary": "Pocket-sized collectible scene.",
+    "trend_keywords": [
+      "mini_playset",
+      "compact_toy"
+    ],
+    "image_url": "https://images.unsplash.com/photo-mini-playset-figures"
+  }
+]
