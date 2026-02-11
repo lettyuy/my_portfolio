@@ -50,7 +50,7 @@
       "cream_topping",
       "nutty_latte"
     ],
-    "image_url": "https://images.unsplash.com/photo-pistachio-cream-latte"
+    "image_url": "https://images.pexels.com/photos/30307792/pexels-photo-30307792.jpeg"
   },
   {
     "trend_name": "Brown Butter Cookies",
@@ -60,7 +60,7 @@
       "cookie_variation",
       "artisan_bakery"
     ],
-    "image_url": "https://images.unsplash.com/photo-brown-butter-cookies"
+    "image_url": "https://images.pexels.com/photos/4187557/pexels-photo-4187557.jpeg"
   },
   {
     "trend_name": "Yuzu Lemonade",
@@ -70,7 +70,7 @@
       "citrus_drink",
       "fruit_infusion"
     ],
-    "image_url": "https://images.unsplash.com/photo-yuzu-lemonade"
+    "image_url": "https://images.pexels.com/photos/11070660/pexels-photo-11070660.jpeg"
   },
   {
     "trend_name": "Hot Honey Chicken Sandwich",
@@ -80,7 +80,7 @@
       "spicy_sweet",
       "sandwich_upgrade"
     ],
-    "image_url": "https://images.unsplash.com/photo-hot-honey-chicken-sandwich"
+    "image_url": "https://images.pexels.com/photos/15076692/pexels-photo-15076692.jpeg"
   },
   {
     "trend_name": "Matcha Soft Serve",
@@ -90,7 +90,7 @@
       "green_dessert",
       "swirl_aesthetic"
     ],
-    "image_url": "https://images.unsplash.com/photo-matcha-soft-serve"
+    "image_url": "https://images.pexels.com/photos/31371705/pexels-photo-31371705.jpeg"
   },
   {
     "trend_name": "Rose Cardamom Latte",
@@ -100,7 +100,7 @@
       "rose_flavor",
       "spiced_latte"
     ],
-    "image_url": "https://images.unsplash.com/photo-rose-cardamom-latte"
+    "image_url": "https://images.pexels.com/photos/30307777/pexels-photo-30307777.jpeg"
   },
   {
     "trend_name": "High-Protein Muffins",
@@ -109,7 +109,7 @@
       "protein_pastry",
       "functional_bakery"
     ],
-    "image_url": "https://images.unsplash.com/photo-high-protein-muffins"
+    "image_url": "https://images.pexels.com/photos/5994864/pexels-photo-5994864.jpeg"
   },
   {
     "trend_name": "Sparkling Peach Iced Tea",
@@ -118,7 +118,7 @@
       "peach_flavor",
       "sparkling_tea"
     ],
-    "image_url": "https://images.unsplash.com/photo-sparkling-peach-iced-tea"
+    "image_url": "https://images.pexels.com/photos/17525262/pexels-photo-17525262.jpeg"
   },
   {
     "trend_name": "Tiramisu Iced Coffee",
@@ -127,7 +127,7 @@
       "tiramisu_flavor",
       "dessert_coffee"
     ],
-    "image_url": "https://images.unsplash.com/photo-tiramisu-iced-coffee"
+    "image_url": "https://images.pexels.com/photos/9082937/pexels-photo-9082937.jpeg"
   },
   {
     "trend_name": "Ube Cheesecake Bars",
@@ -136,7 +136,7 @@
       "ube_dessert",
       "cheesecake_bar"
     ],
-    "image_url": "https://images.unsplash.com/photo-ube-cheesecake-bars"
+    "image_url": "https://theunlikelybaker.com/wp-content/uploads/2021/09/Ube-Cheesecake-Bars-Recipe-7.jpg"
   },
   {
     "trend_name": "Matcha White Chocolate Cookies",
@@ -145,7 +145,7 @@
       "matcha_cookie",
       "white_chocolate_chunk"
     ],
-    "image_url": "https://images.unsplash.com/photo-matcha-white-chocolate-cookies"
+    "image_url": "https://www.theflouredtable.com/wp-content/uploads/2023/01/matcha-cookie-recipe.jpg"
   },
   {
     "trend_name": "Pistachio Croissants",
@@ -154,7 +154,7 @@
       "pistachio_filling",
       "laminated_pastry"
     ],
-    "image_url": "https://images.unsplash.com/photo-pistachio-croissants"
+    "image_url": "https://images.pexels.com/photos/29353011/pexels-photo-29353011.jpeg"
   },
   {
     "trend_name": "Espresso Tonic",
@@ -163,7 +163,7 @@
       "espresso_tonic",
       "carbonated_coffee"
     ],
-    "image_url": "https://images.unsplash.com/photo-espresso-tonic"
+    "image_url": "https://images.pexels.com/photos/33757166/pexels-photo-33757166.jpeg"
   },
   {
     "trend_name": "Salted Maple Latte",
@@ -172,7 +172,7 @@
       "maple_flavor",
       "salted_sweet"
     ],
-    "image_url": "https://images.unsplash.com/photo-salted-maple-latte"
+    "image_url": "https://images.pexels.com/photos/14366134/pexels-photo-14366134.jpeg"
   },
   {
     "trend_name": "Tahini Chocolate Bars",
@@ -181,6 +181,6 @@
       "tahini_chocolate",
       "artisan_confection"
     ],
-    "image_url": "https://images.unsplash.com/photo-tahini-chocolate-bars"
+    "image_url": "https://www.bakedambrosia.com/wp-content/uploads/2017/05/Dark-Chocolate-Tahini-Bars-Gluten-Free-Vegan-38-scaled.jpg"
   }
 ]
